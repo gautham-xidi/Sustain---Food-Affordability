@@ -1,4 +1,4 @@
-# Sustain---Food-Affordability
+# Sustain: Food Affordability
 # 🛒 Fresh Food Affordability & Price Stability Analysis
 ### Melbourne, Victoria — Sustain Australia × RMIT University | Aug – Nov 2025
 
